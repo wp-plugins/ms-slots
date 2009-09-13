@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9LF4K
 Tags: auto ms plugins, wordpress slots, wordpress contents, wordpress hooks, wordpress adsense, random adsense, wordpress banner, wordpress random banner, random contents
 Requires at least: 2.0.2
 Tested up to: 2.8.4
-Stable tag: 1.0
+Stable tag: trunk
 
 == Description ==
 
