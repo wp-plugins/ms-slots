@@ -15,21 +15,17 @@ You can use MS Slots Plugin for google adsense or other ads, static banners, ran
 <-- Usage -->
 
 1. you can add a single slot anywhere in your template, e.g.
-
-<?php if(function_exists("ms_slots")){ echo ms_slots("1"); } ?>
-
+&lt;?php if(function_exists(&quot;ms_slots&quot;)){ echo ms_slots(&quot;1&quot;); } ?&gt;
 
 2. you can also add random slots, e.g.
-
-<?php if(function_exists("ms_random_slots")){ echo ms_random_slots(); } ?>
-
+&lt;?php if(function_exists(&quot;ms_random_slots&quot;)){ echo ms_random_slots(); } ?&gt;
 
 3. to exclude slots, use
+&lt;?php if(function_exists(&quot;ms_random_slots&quot;)){ echo ms_random_slots(&quot;1,2&quot;); } ?&gt;
 
-<?php if(function_exists("ms_random_slots")){ echo ms_random_slots("1,2"); } ?>
 
 
-================================================================================
+=================================================
 for any help/suggestion/complain, please write me at mshahid85@gmail.com
 or visit http://shahidmau.blogspot.com
 
